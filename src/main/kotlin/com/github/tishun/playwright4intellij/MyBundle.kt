@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.tishun.playwright4intellij
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
