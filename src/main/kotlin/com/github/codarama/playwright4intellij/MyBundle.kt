@@ -1,4 +1,4 @@
-package com.github.tishun.playwright4intellij
+package com.github.codarama.playwright4intellij
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
